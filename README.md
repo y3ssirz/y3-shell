@@ -1,2 +1,2 @@
 # y3-shell
-# Unfortunately I ended up losing my github and the main files, soon I will reupdate and solve crashes & bugs
+Unfortunately, I lost my GitHub and the main files. I'll have everything re-uploaded and the crashes and bugs fixed soon.
